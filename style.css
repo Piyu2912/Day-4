@@ -70,3 +70,10 @@
     margin: 13px;
     padding: 20px;
 }
+li {
+    padding: 2px;
+}
+input {
+    margin-right: 15px;
+    padding-bottom: 8px;
+}
